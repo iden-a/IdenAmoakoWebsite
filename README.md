@@ -10,7 +10,7 @@
 * [x] Paragraphs
 * [x] Sections
 * [x] Navigation
-*Accessible Features
+* Accessible Features
 * [x] Buttons
 * [x] Alt Text
 * Answer to the Reflection Questions 

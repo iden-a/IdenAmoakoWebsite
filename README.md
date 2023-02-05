@@ -24,12 +24,12 @@
 
 4. What are 3 questions you would ask your mentor and why? 
 
-1.  How did you know you wanted to become a software engineer, and when did you begin your journey?
-* We each have different upbringings and we each come from different communities and that really does play a major part in what kind of careers we wish to pursue I know that up until recently I wasn't really sure what field and what part of the business operations sector I wanted to be a part of So I feel like this question would not only give me insight, but it would allow me to relate to my mentor on another level.
+* How did you know you wanted to become a software engineer, and when did you begin your journey?
+- We each have different upbringings and we each come from different communities and that really does play a major part in what kind of careers we wish to pursue I know that up until recently I wasn't really sure what field and what part of the business operations sector I wanted to be a part of So I feel like this question would not only give me insight, but it would allow me to relate to my mentor on another level.
 
-2. What keeps you motivated to pursue the work you are currently doing? 
-* We all have different motivations, whether we want to support our families or we want to further ourselves in our careers. There are a whole variety of motivations that allow us to wake up and head to work. I would like to know what drives my mentor,  and what keeps them motivated even when they are not feeling like the best version of themselves.
+* What keeps you motivated to pursue the work you are currently doing? 
+- We all have different motivations, whether we want to support our families or we want to further ourselves in our careers. There are a whole variety of motivations that allow us to wake up and head to work. I would like to know what drives my mentor,  and what keeps them motivated even when they are not feeling like the best version of themselves.
 
-3. If you had any previous mentees, what qualities did they possess that allowed them to be successful? And if you haven't, if you've ever worked with any partners or if you've had any mentors who prepared you and aided in your career advancement, what qualities did they possess?
-* This question is important because I would like to know what qualities allow someone to be successful in their respective field. Regardless of technical skills, interpersonal skills are also extremely important so I feel like these questions would give me further insight on what it means to collaborate, and work in a team, as well as to be an engineer in that particular field.
+* If you had any previous mentees, what qualities did they possess that allowed them to be successful? And if you haven't, if you've ever worked with any partners or if you've had any mentors who prepared you and aided in your career advancement, what qualities did they possess?
+- This question is important because I would like to know what qualities allow someone to be successful in their respective field. Regardless of technical skills, interpersonal skills are also extremely important so I feel like these questions would give me further insight on what it means to collaborate, and work in a team, as well as to be an engineer in that particular field.
 

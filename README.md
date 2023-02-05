@@ -3,7 +3,15 @@
 * Full name: Iden Amoako
 * Hours Spent: 8 Hours 
 * Implemented Features 
-* [x] Buttons 
+* [x] Font-size/Font-family
+* [x] Background color
+* [x] Centered Text and Image
+* [x] Headings
+* [x] Paragraphs
+* [x] Sections
+* [x] Navigation
+*Accessible Features
+* [x] Buttons
 * [x] Alt Text
 * Answer to the Reflection Questions 
 

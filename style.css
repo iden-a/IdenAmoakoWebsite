@@ -1,0 +1,55 @@
+html, body {
+  font-family: times 'Times New Roman', Times, serif ;
+  background-color: #bddbe5;
+  margin: 0;
+  margin-top: 50px;
+}
+header {
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  line-height: 50px;
+}
+
+header * {
+  display: inline;
+  height: 50px;
+}
+
+section{
+  height: 100vh;
+  border: 1px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+img {
+  image-rendering: center;
+  height: 400px;
+  margin: auto;
+}
+
+#Home h1 {
+  font-size: 3em;
+}
+#Home p{
+  font-size: 14pt;
+}
+#About h1 {
+  font-size: 3em;
+}
+#About p{
+  font-size: 14pt;
+}
+#Video h1 {
+  font-size: 3em;
+}
+#Video p{
+  font-size: 12pt;
+}
+

@@ -41,3 +41,6 @@
 * If you had any previous mentees, what qualities did they possess that allowed them to be successful? And if you haven't, if you've ever worked with any partners or if you've had any mentors who prepared you and aided in your career advancement, what qualities did they possess?
 - This question is important because I would like to know what qualities allow someone to be successful in their respective field. Regardless of technical skills, interpersonal skills are also extremely important so I feel like these questions would give me further insight on what it means to collaborate, and work in a team, as well as to be an engineer in that particular field.
 
+* Reflection Questions:
+1. Is your interview video embedded and can be played on your live website? Yes, the interview video is embedded. 
+2. Did you answer all the interview questions in your video? Yes, each question is answered in the video along with the closed captions and answers in this file. 

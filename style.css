@@ -40,11 +40,20 @@ img {
 #Home p{
   font-size: 14pt;
 }
+#Home {
+  background-color: #e6f2f4;
+}
+#Home button {
+  font-size: 14pt;
+}
 #About h1 {
   font-size: 3em;
 }
 #About p{
   font-size: 14pt;
+}
+#About {
+  background-color: #bddbe5;
 }
 #Video h1 {
   font-size: 3em;
@@ -52,4 +61,8 @@ img {
 #Video p{
   font-size: 12pt;
 }
+#Video {
+  background-color: #e6f2f4
+}
+
 
